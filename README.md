@@ -7,16 +7,21 @@ I'm a Electronics and Communication student at National Institute of Technology 
 ### What I'm up to right now
 
 - Doing Competitive Programming on Codeforces and Codechef .
+- Learning Data Structure and Algorithms 
 - Come in top 0.03% top Programmer on Codechef .
 - Having some project on Backend and Frontend.
 - Solving Problems on Leetcode. You can Find me [here](https://leetcode.com/utkarshkanswal/)
+
+### Competitive Programming Profiles
+![utkarshkanswal](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/utkarshkanswal&query=%24.highest_rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
+![](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/utkarshkanswal&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
 
 ### My recent activity
 
 <details>
   <summary>Click me!</summary>
   
-- Working on Backend Technology like Nodejs, Express etc. 
+-🔭 Working on Backend Technology like Nodejs, Express etc. 
   
 </details>
 
@@ -37,7 +42,7 @@ I'm a Electronics and Communication student at National Institute of Technology 
 You can find me at: [Linkedin](https://www.linkedin.com/in/utkarsh-kumar-7b0195189/) | [Email](mailto:utkarshkanswal@gmail.com) | [COdechef](https://www.codechef.com/users/utkarshkanswal) | [Codeforces](https://codeforces.com/profile/utkarshkanswal)
 
 <!--
-**jaswantcoder/jaswantcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**utkarshkanswal/utkarshkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
