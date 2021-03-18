@@ -13,8 +13,11 @@ I'm a Electronics and Communication student at National Institute of Technology 
 - Solving Problems on Leetcode. You can Find me [here](https://leetcode.com/utkarshkanswal/)
 
 ### Competitive Programming Profiles
-![utkarshkanswal](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/utkarshkanswal&query=%24.highest_rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
-![](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/utkarshkanswal&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)
+[Codechef Profile](https://www.codechef.com/users/utkarshkanswal)
+
+[Codeforces Profile](https://codeforces.com/profile/utkarshkanswal)
+
+[HackeEarth Profile](https://www.hackerearth.com/@utkarshkanswal)
 
 ### My recent activity
 
@@ -31,7 +34,7 @@ I'm a Electronics and Communication student at National Institute of Technology 
   <summary>Click me!</summary>
   
 - Interned at JP Morgan Chase & Co. , Establising data and visualization .
-- Made a simple Rating Based Ranklist Generator . It can be found in [this repository](https://github.com/utkarshkanswal/Rating-Based-Ranklist).
+- Made a simple Rating Based Ranklist Generator . It can be found in [this repository](https://github.com/utkarshkanswal/Leetcode-Ranklist-Generator-).
 - Check My Portfolio [Click Here](https://utkarshkanswal.github.io/My-Portfolio/)
 
 
