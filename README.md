@@ -24,7 +24,7 @@ I'm a Electronics and Communication student at National Institute of Technology 
 <details>
   <summary>Click me!</summary>
   
--🔭 Working on Backend Technology like Nodejs, Express etc. 
+-🔭 Working on Backend Technology like Nodejs, Express, Django-rest Framework etc. 
   
 </details>
 
@@ -33,8 +33,9 @@ I'm a Electronics and Communication student at National Institute of Technology 
 <details>
   <summary>Click me!</summary>
   
-- Interned at JP Morgan Chase & Co. , Establising data and visualization .
-- Made a simple Rating Based Ranklist Generator . It can be found in [this repository](https://github.com/utkarshkanswal/Leetcode-Ranklist-Generator-).
+- Interned at Innovaccer as Software Development Engineer.Worked upon Django-Rest Framework with Postgres as Database in Plateform Team at Innovaccer.Fixed bugs and implemented many features in the project which improved api’s performance.Created many new apis in the project which improved the utility of project and also created many edge testcases using UnitTest in Python which improved code’s stability.
+- Made a simple Rating Based Ranklist Generator. It can be found in [this repository](https://github.com/utkarshkanswal/Leetcode-Ranklist-Generator-).
+- Developed all the Backend Apis of website.Used Mongodb as a database.Used Multer and Mongoose for file upload integration.Integrated Admin Pannel , Jwt Authentication and Froala Editor using JavaScript. It can be found in [this repository](https://github.com/Coding-Club-NIT-Meghalaya/CodingClubWebsite).
 - Check My Portfolio [Click Here](https://utkarshkanswal.github.io/My-Portfolio/)
 
 
@@ -42,7 +43,7 @@ I'm a Electronics and Communication student at National Institute of Technology 
 
 ### How to reach me
 
-You can find me at: [Linkedin](https://www.linkedin.com/in/utkarsh-kumar-7b0195189/) | [Email](mailto:utkarshkanswal@gmail.com) | [COdechef](https://www.codechef.com/users/utkarshkanswal) | [Codeforces](https://codeforces.com/profile/utkarshkanswal)
+You can find me at: [Linkedin](https://www.linkedin.com/in/utkarsh-kumar-7b0195189/) | [Email](mailto:utkarshkanswal@gmail.com) | [Codechef](https://www.codechef.com/users/utkarshkanswal) | [Codeforces](https://codeforces.com/profile/utkarshkanswal)
 
 <!--
 **utkarshkanswal/utkarshkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
