@@ -6,6 +6,7 @@ I'm a Electronics and Communication student at National Institute of Technology 
 
 ### What I'm up to right now
 
+- Interned at Innovaccer as Software Development Engineer.Worked upon Django-Rest Framework with Postgres as Database in Plateform Team at Innovaccer.Fixed bugs and implemented many features in the project which improved api’s performance.Created many new apis in the project which improved the utility of project and also created many edge testcases using UnitTest in Python which improved code’s stability.
 - Doing Competitive Programming on Codeforces and Codechef .
 - Learning Data Structure and Algorithms 
 - Come in top 0.03% top Programmer on Codechef .
