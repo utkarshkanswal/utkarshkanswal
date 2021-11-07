@@ -25,7 +25,8 @@ I'm a Electronics and Communication student at National Institute of Technology 
 <details>
   <summary>Click me!</summary>
   
--🔭 Working on Backend Technology like Nodejs, Express, Django-rest Framework etc. 
+- Working on Backend Technology like Nodejs, Express, Django-rest Framework etc. 
+- Working on some Machine Learning projects.  
   
 </details>
 
